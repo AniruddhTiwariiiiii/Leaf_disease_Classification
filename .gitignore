@@ -1,0 +1,20 @@
+# Python virtual environments
+myenv/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Model or data files (optional, often huge)
+*.h5
+*.pkl
+*.ckpt
+*.zip
+*.tar
+*.gz
+
